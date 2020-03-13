@@ -1,0 +1,29 @@
+my_name = "Svyatoslav"
+currday = "Неділя"
+print("Good day __my_name+"! "+cur____ is a perfect day to learn some python.")
+print("Good day %s! %_ is a perfect day to learn some python." % (my_name, currday))
+print("Good day {}! {} is a perfect day to learn some python.".format(_______, currday))
+print("Good day {____}! {__} is a perfect day to learn some python.".format(currday, my_name))
+print(f"Good day {____}! {___} is a perfect day to learn some python.")
+
+name = "Svyatoslav"
+lname = "Kosenchuk"
+print(name + ____ lname)
+
+a = 8
+b = 5
+print("Addition\t\ta+b=", (a + b)  )
+print("Subtraction\t\ta-b=", (a - b)  )
+print("Division\t\ta/b=", (a / b)  )
+print("Multiplication\t\ta*b=", (a * b)  )
+print("Exponent\t\ta^b=", (a____b)  )
+print("Modulus\t\t\ta____b=", (a___b)  )
+print("Floor division\t\ta___b=", (a___b)  )
+
+# задание на умение форматировать значения
+print("{_____} {__} {___} {____}".format(12, "Василий", 54, 32.1))
+
+# умение нарезать строки на слайсы
+word = "Корован"
+print(__________+word[__]+word[__]+word[1]+word[6]+word[5])
+print((word[______] + word[_____]).ti_____())
