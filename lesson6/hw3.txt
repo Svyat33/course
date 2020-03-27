@@ -1,4 +1,4 @@
 # Создаю лист таплов
-new_list = [(i, i**2) for i in range(10)]
+new_list = [(i, _____) for __ in range(__)]
 # вывожу созданное
-print(new_list)
+____________
