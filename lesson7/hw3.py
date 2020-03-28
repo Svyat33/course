@@ -1,16 +1,18 @@
-def make_operation(action, a, *args):
-    if action=="+":
-        return a + sum(args)
+def make_ope____________
+    if action ___ "+
+        _____________
+        _____________
+        return ___
 
-    if action == "-":
-        for i in args:
-            a -= i
-        return a
+    if action __ "-"
+        _____________
+        _____________
+        return ___
 
-    if action == "*":
-        for i in args:
-            a *= i
-        return a
+    if action __ *
+        _____________
+        _____________
+        return ___
 
 if __name__ == "__main__":
     print(make_operation("+", 1, 2, 3) == 6)

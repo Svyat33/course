@@ -1,6 +1,6 @@
-def favorite_movie(film_name):
-    return f"My favorite movie is named {film_name}"
+def favorite_movie(_______
+    return ________--
 
 if __name__ == "__main__":
-    film = input("Какой ваш любимый фильм? ")
+    film = _______
     print(favorite_movie(film))

@@ -1,11 +1,9 @@
-def make_country(a,b):
-    return {
-        "name": a,
-        "capital": b
-    }
+def make_country____
+    ______________
+    return ____________
 
-def print_country(d):
-    print(f"Страна: {d['name']} столица: {d['capital']}" )
+def print_country_______
+    pri_________________________________________________
 
 if __name__ == "__main__":
     d = make_country("Germany", "Berlin")
