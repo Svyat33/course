@@ -1,10 +1,11 @@
 def mymath(a,b):
     try:
-        x,y = int(a), int(b)
-        return x**2 / y
-    except ValueError:
+        ___________
+        _______
+    _________
         print("Произошла ошибка при приведении типа")
-    except ZeroDivisionError:
+    __________
         print("Деление на ноль дает бесконечность, а ее нам не в чем хранить")
 
-        
+if __name__ == "__main__":
+    print(mymath(input("Введите а: "), input("Введите b: ")))
