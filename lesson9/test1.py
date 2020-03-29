@@ -12,7 +12,7 @@ class  CheckHW1(unittest.TestCase):
     
     def test_function_work(self):
         from hw1 import oops
-        with self.assertRaises(Exception): 
+        with self.assertRaises(IndexError): 
             oops()
         
 if __name__ == '__main__':
